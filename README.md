@@ -1,8 +1,9 @@
 ## Hello there!
 
-
-
-  Making my projects in :
+I like to learn new stuff and make simple programs.
+ Now I am learning Git(and Github), so if something looks odd or straight up doesn't work (a common problem here), get in contact and I will try it fix it!
+ 
+ Anyway, here is some stats:
  
  
 <a href="https://github.com/BreenBrain/github-readme-stats">
@@ -10,9 +11,11 @@
 </a>
           
           
-  Currently working on:
+ Currently working on:
 
 
 <a  href="https://github.com/BreenBrain/MenuV8">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BreenBRain&repo=MenuV8 "/>
 </a>
+ 
+ 
