@@ -15,7 +15,9 @@ I like to learn new stuff and make simple programs.
 
 
 <a  href="https://github.com/BreenBrain/MenuV8">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=o-dka&repo=MenuV8 "/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=o-dka&repo=MenuV8 "/>
 </a>
  
- 
+<a  href="https://github.com/o-dka/vsclassic-icon-theme">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=o-dka&repo=vsclassic-icon-theme "/>
+</a>
