@@ -7,7 +7,7 @@ I like to learn new stuff and make simple programs.
  
  
 <a href="https://github.com/BreenBrain/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odka&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-dka&layout=compact"/>
 </a>
        
    Actively working on:
