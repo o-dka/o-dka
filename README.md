@@ -5,9 +5,7 @@ I like to learn new stuff and make simple programs.
  Anyway, here is some stats:
  
  
-<a href="https://github.com/o-dka/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-dka"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-dka&langs_count=5&layout=compact)](https://github.com/o-dka/github-readme-stats)
        
    Actively working on:
 
