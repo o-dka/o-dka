@@ -5,7 +5,7 @@ I like to learn new stuff and make simple programs.
  Anyway, here is some stats:
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-dka&langs_count=5&layout=compact)](https://github.com/o-dka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-dka)](https://github.com/o-dka/github-readme-stats)
        
    Actively working on:
 
