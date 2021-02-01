@@ -4,8 +4,10 @@ I like to learn new stuff and make simple programs.
  
  Anyway, here is some stats:
  
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-dka)](https://github.com/o-dka/github-readme-stats)
+<a href="https://github.com/BreenBrain/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-dka&layout=compact"/>
+</a>
+
        
    Actively working on:
 
