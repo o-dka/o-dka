@@ -5,7 +5,7 @@ I like to learn new stuff and make simple programs.
  Anyway, here is some stats:
  
 <a href="https://github.com/BreenBrain/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-dka&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odka"/>
 </a>
 
        
