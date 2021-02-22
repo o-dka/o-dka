@@ -11,5 +11,7 @@ I like to learn new stuff and make simple programs.
        
    Actively working on:
 
-
+<a  href="https://github.com/o-dka/MenuV8">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=o-dka&repo=MenuV8 "/>
+</a>
  
