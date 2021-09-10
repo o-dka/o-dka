@@ -10,5 +10,5 @@ If something looks odd or straight up doesn't work (a common problem here), get 
  Here is some stats:
  
 <a href="https://github.com/o-dka/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-dka&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-dka&layout=compact&hide=pascal">
 </a>
